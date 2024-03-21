@@ -1,0 +1,14 @@
+{
+  "name": "@mbostock/methods-of-comparison-compared",
+  "main": "23bd5727ae03206e@744.js",
+  "version": "744.0.0",
+  "homepage": "https://observablehq.com/@mbostock/methods-of-comparison-compared",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "https://observablehq.com/@mbostock"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
